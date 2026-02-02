@@ -1,6 +1,8 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { plan, weekdayLabels, getWorkoutForDate } from "./data/plan.js";
 
+import gymImage from "./images/gym.png";
+
 const EMPTY_LOG = {
   weight: "",
   workouts: {},
@@ -245,9 +247,6 @@ export default function App() {
           </div>
         </div>
         <div className="hero-image">
-          <div className="image-placeholder">
-            Prompt: cinematic dark gym scene with warm edge lighting, focused person tying sneakers, modern flat style
-          </div>
         </div>
       </header>
 
@@ -492,9 +491,6 @@ export default function App() {
             <span className="date-chip">{weights.length} entries</span>
           </div>
           <WeightChart weights={weights} />
-          <div className="image-placeholder small">
-            Prompt: abstract data waves glowing teal on dark matte background, flat minimal style
-          </div>
         </section>
 
         <section className="panel reminders-panel">
@@ -551,9 +547,6 @@ export default function App() {
                 ))}
               </ul>
             </div>
-          </div>
-          <div className="image-placeholder">
-            Prompt: minimal flat kitchen prep scene with meal containers, warm lighting, muted teal accents
           </div>
         </section>
       </main>

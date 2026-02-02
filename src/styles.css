@@ -81,12 +81,19 @@ h4 {
 }
 
 .hero-image {
-  background: linear-gradient(135deg, rgba(114, 228, 209, 0.2), rgba(91, 140, 255, 0.25));
+  background: linear-gradient(135deg, rgba(114, 228, 209, 0.2), rgba(91, 140, 255, 0.25)),
+              url('./images/gym.png');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
   border-radius: var(--radius-lg);
   padding: 16px;
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
+  height: 100%;
 }
+
+
 
 .image-placeholder {
   border: 1px dashed rgba(114, 228, 209, 0.6);

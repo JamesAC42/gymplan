@@ -26,6 +26,7 @@ Serves the built app and the API from the same server.
 ```
 npm run start
 ```
+Note: run the build step first so the server can serve the `dist` output.
 
 ## Data Storage
 Logs are stored as JSON on disk:
