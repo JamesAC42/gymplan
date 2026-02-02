@@ -410,6 +410,13 @@ h4 {
   .set-row {
     grid-template-columns: 1fr 1fr;
   }
+
+  .hero-image {
+    width: 100%;
+    min-height: 12rem;
+    background-size: cover;
+    background-position: center;
+  }
 }
 
 @media (max-width: 600px) {
