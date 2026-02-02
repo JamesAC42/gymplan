@@ -246,7 +246,7 @@ export default function App() {
         </div>
         <div className="hero-image">
           <div className="image-placeholder">
-            Prompt: cinematic dark gym scene with warm edge lighting, focused dad tying sneakers, modern flat style
+            Prompt: cinematic dark gym scene with warm edge lighting, focused person tying sneakers, modern flat style
           </div>
         </div>
       </header>

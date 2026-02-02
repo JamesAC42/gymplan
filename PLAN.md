@@ -1,4 +1,4 @@
-### "The WFH Dad Recomp"
+### "Recomp Plan"
 
 **Schedule:** M/W/F Lifting (Morning) | T/Th/Sat Cardio & Recovery
 **Equipment:** Planet Fitness Specific
@@ -67,7 +67,7 @@ Since you have a toddler and a wife, do not cook separate "diet meals." Cook bul
 2.  **Carb:** Big batch of white rice or roasted potatoes (olive oil + rosemary).
 3.  **Veg:** Frozen bags of green beans or spinach (easy to microwave).
 
-**The "Dad Blueprint" Daily Meal Structure:**
+**The "Blueprint" Daily Meal Structure:**
 
 *   **Breakfast (Fast & Cognitive):**
     *   Oatmeal with water/lactose-free milk, scoop of Whey Isolate (check for lactose), blueberries, walnuts.

@@ -1,4 +1,4 @@
-# WFH Dad Recomp Tracker
+# Recomp Tracker
 
 Single-page React app with a lightweight JSON file server for tracking workouts, cardio, and daily weight. Styling is custom and dark-mode by default.
 

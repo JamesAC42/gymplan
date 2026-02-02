@@ -1,5 +1,5 @@
 export const plan = {
-  title: "The WFH Dad Recomp",
+  title: "The Recomp Plan",
   schedule: "M/W/F Lifting (Morning) | T/Th/Sat Cardio & Recovery",
   equipment: "Planet Fitness specific",
   diet: "Low-FODMAP, High Protein",
